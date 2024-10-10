@@ -1,7 +1,7 @@
-#Базы данных и SQL
+# Базы данных и SQL
 
 Установила PostgeSQL, DBeaver, настроила подключение. 
-Нарисовала концептуальную и логическую модели данных для файла sample - superstore.xls
+Нарисовала концептуальную и логическую модели данных для файла sample-superstore.xls
 ![image](https://github.com/user-attachments/assets/a9d6ff8d-7124-415e-9ccd-fe8ac86bdd88)
 ![image](https://github.com/user-attachments/assets/f7770bff-1d15-4c06-aafa-02d3bee63ec1)
 
