@@ -5,7 +5,7 @@
 
 ![image](https://github.com/user-attachments/assets/37246198-89dc-4fbc-a6d5-8c08f5ae9086)
 
-2. Аналитика в Exel.
+2. Аналитика в Exсel.
 Использовала данные из файла Sample - Superstore.xls. Построила сводные таблицы, создала дашборд, отражающий динамику продаж.
 
 ![image](https://github.com/user-attachments/assets/74893d2a-5485-45fa-bddd-00db0b3d965c)
