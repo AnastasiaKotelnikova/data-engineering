@@ -8,8 +8,8 @@
 2. Аналитика в Exсel.
 Использовала данные из файла Sample - Superstore.xls. Построила сводные таблицы, создала дашборд, отражающий динамику продаж.
 
-[](https://github.com/AnastasiaKotelnikova/data-engineering/blob/fa98aadf12f8f4a71b5d6ba8cf6a3ff828eef787/DE-101/Module1/dashboard_xls_1.png)
+![](https://github.com/AnastasiaKotelnikova/data-engineering/blob/fa98aadf12f8f4a71b5d6ba8cf6a3ff828eef787/DE-101/Module1/dashboard_xls_1.png)
 
-[](https://github.com/AnastasiaKotelnikova/data-engineering/blob/fa98aadf12f8f4a71b5d6ba8cf6a3ff828eef787/DE-101/Module1/dashboard_xls_2.png)
+![](https://github.com/AnastasiaKotelnikova/data-engineering/blob/fa98aadf12f8f4a71b5d6ba8cf6a3ff828eef787/DE-101/Module1/dashboard_xls_2.png)
 
-[](https://github.com/AnastasiaKotelnikova/data-engineering/blob/fa98aadf12f8f4a71b5d6ba8cf6a3ff828eef787/DE-101/Module1/dashboard_xls_3.png)
+![](https://github.com/AnastasiaKotelnikova/data-engineering/blob/fa98aadf12f8f4a71b5d6ba8cf6a3ff828eef787/DE-101/Module1/dashboard_xls_3.png)
